@@ -1,0 +1,14 @@
+<h1> ARTICLE <%= @article.id %> </h1>
+<p>
+  <strong>Title:</strong>
+  <%=@article.title %>
+</p>
+ 
+<p>
+  <strong>Text:</strong>
+  <%=@article.text %>
+</p>
+
+<%= link_to "Delete", @article, method: :delete, data: {confirm: "Really delete this article?"} %>
+
+<%= link_to 'Back', articles_path %>
