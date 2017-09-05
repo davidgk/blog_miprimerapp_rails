@@ -19,3 +19,14 @@ basado en http://guides.rubyonrails.org/getting_started.html
 * Deployment instructions
 
 * ...
+
+
+http://guides.rubyonrails.org/routing.html
+
+http://guides.rubyonrails.org/association_basics.html
+
+http://guides.rubyonrails.org/layouts_and_rendering.html
+
+http://guides.rubyonrails.org/working_with_javascript_in_rails.html
+
+http://api.rubyonrails.org/v5.1.3/classes/ActionView/Helpers/FormHelper.html#method-i-form_for
